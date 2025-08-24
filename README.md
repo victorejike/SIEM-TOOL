@@ -21,3 +21,10 @@ A Security Information and Event Management (SIEM) tool with IP address monitori
   
 4. ## Usage Run the SIEM tool:
 
+
+   cd siem-tool
+git init
+git add .
+
+git commit -m "Initial commit: SIEM tool with IP monitoring"
+
