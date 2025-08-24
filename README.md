@@ -21,4 +21,19 @@ A Security Information and Event Management (SIEM) tool with IP address monitori
   
 4. ## Usage Run the SIEM tool:
 
-5. 
+5. 1. Go to your GitHub repository
+2. Click on "Releases"
+3. Click "Create a new release"
+4. Add a version tag (e.g., v1.0.0)
+5. Add release notes describing the features
+6. Upload any compiled binaries if needed
+
+## Additional Tips
+
+1. Add badges to your README for build status, test coverage, etc.
+2. Enable GitHub Pages for documentation if needed
+3. Use GitHub Projects to organize tasks and milestones
+4. Set up branch protection rules to require reviews for main branch
+5. Add a code of conduct to make the project welcoming to contributors
+
+Your SIEM tool is now properly set up on GitHub with a professional structure that makes it easy for others to understand, use, and contribute to your project!
